@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al-Husseini Abdelaleem</h1>
-<h3 align="center">Senior student at FCAIH & Intern at The Sparks Foundation</h3>
+<h3 align="center">Fresh Graduated</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husseini2000&label=Profile%20views&color=0e75b6&style=flat" alt="husseini2000" /> </p>
 - 👀 I’m interested in **Machine learning, Deep learning, and Data Analysis.**
