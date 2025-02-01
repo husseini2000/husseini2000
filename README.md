@@ -2,9 +2,9 @@
 <h3 align="center">Data Engineer In Progress</h3>
 
 
-💡 **Interests:** Machine Learning, Deep Learning, Data Engineering 
-🎓 **Education:** B.Sc. in Computer Science | Innovation Kgotla Data Science Scholar  
-📧 **Contact Me:** husseiniahmed2015@gmail.com
+- 💡 **Interests:** Machine Learning, Deep Learning, Data Engineering 
+- 🎓 **Education:** B.Sc. in Computer Science | Innovation Kgotla Data Science Scholar  
+- 📧 **Contact Me:** husseiniahmed2015@gmail.com
 
 ## 🚀 What I'm Currently Working On:
 ### **📊 Advancing in Data Science & Analysis**  
