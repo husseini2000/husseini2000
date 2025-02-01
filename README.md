@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Al-Husseini Abdelaleem</h1>
 <h3 align="center">Data Engineer In Progress</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=husseini2000&label=Profile%20views&color=0e75b6&style=flat" alt="husseini2000" /> </p>
+
 💡 **Interests:** Machine Learning, Deep Learning, Data Engineering 
 🎓 **Education:** B.Sc. in Computer Science | Innovation Kgotla Data Science Scholar  
 📧 **Contact Me:** husseiniahmed2015@gmail.com
