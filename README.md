@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Al-Husseini Abdelaleem</h1>
 <h3 align="center">Data Engineer In Progress</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=husseini2000&label=Profile%20views&color=0e75b6&style=flat" alt="husseini2000" /> </p>
 - 💡 **Interests:** Machine Learning, Deep Learning, Data Engineering 
 - 🎓 **Education:** B.Sc. in Computer Science | Innovation Kgotla Data Science Scholar  
 - 📧 **Contact Me:** husseiniahmed2015@gmail.com
@@ -17,8 +17,7 @@
 - Applying for **Data Engineering role**.  
 - Strengthening skills in **Power BI, SQL, NoSQL, ETL, Data Warehouses, Data Lakes, and Python**.  
 - Learning how to **market myself effectively** and build a strong portfolio.
-
-- 👯 I’m looking to collaborate on **interesting projects that will sharpen my skills and teach me new skills.**
+-  I’m looking to collaborate on **interesting projects that will sharpen my skills and teach me new skills.**
 
 
 <h3 align="left">Connect with me:</h3>
